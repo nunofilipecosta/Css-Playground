@@ -1,0 +1,9 @@
+﻿/* descendant selector */
+div p {
+    background-color: #ddddaa;
+}
+
+/* child selector */
+div > p {
+    background-color: #aadddd;
+}
